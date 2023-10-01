@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Fuck off
+          Fuck off baby girl
         </a>
       </header>
     </div>
